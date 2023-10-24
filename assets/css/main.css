@@ -65,7 +65,7 @@ section {
 }
 
 .sections-bg {
-  background: linear-gradient(90deg, rgba(255,0,39,1) 0%, rgba(223,75,22,1) 100%);
+  background: linear-gradient(90deg, rgba(227,4,4,1) 0%, rgba(218,76,26,1) 100%);
   
 }
 
@@ -240,7 +240,8 @@ section {
 # Header
 --------------------------------------------------------------*/
 .topbar {
-background: linear-gradient(90deg, rgba(255,0,39,1) 0%, rgba(223,75,22,1) 100%);
+
+background: linear-gradient(90deg, rgba(227,4,4,1) 0%, rgba(218,76,26,1) 100%);
   height: 40px;
   font-size: 14px;
   transition: all 0.5s;
@@ -293,7 +294,7 @@ background: linear-gradient(90deg, rgba(255,0,39,1) 0%, rgba(223,75,22,1) 100%);
   transition: all 0.5s;
   z-index: 997;
   height: 90px;
-  background: linear-gradient(90deg, rgba(255,0,39,1) 0%, rgba(223,75,22,1) 100%);
+  background: linear-gradient(90deg, rgba(227,4,4,1) 0%, rgba(218,76,26,1) 100%);
 }
 
 .header.sticked {
@@ -1874,7 +1875,7 @@ section {
   position: relative;
  
   
-background: linear-gradient(90deg, rgba(255,0,39,1) 0%, rgba(223,75,22,1) 100%);
+background: linear-gradient(90deg, rgba(227,4,4,1) 0%, rgba(218,76,26,1) 100%);
   padding: 60px 0 0 0;
 }
 
@@ -2562,7 +2563,7 @@ background: linear-gradient(90deg, rgba(255,0,39,1) 0%, rgba(223,75,22,1) 100%);
 --------------------------------------------------------------*/
 .footer {
   font-size: 14px;
-background: linear-gradient(90deg, rgba(255,0,39,1) 0%, rgba(223,75,22,1) 100%);
+background: linear-gradient(90deg, rgba(227,4,4,1) 0%, rgba(218,76,26,1) 100%);
   padding: 50px 0;
   color: white;
 }
